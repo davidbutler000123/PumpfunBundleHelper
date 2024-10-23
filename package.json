@@ -1,6 +1,6 @@
 {
   "name": "pumpfun-bundle-helpers.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pumpfun Bundler SDK",
   "license": "MIT",
   "scripts": {
