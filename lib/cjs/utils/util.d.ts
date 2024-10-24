@@ -5,7 +5,8 @@ export declare function proassert_sp(t: string, lq: number);
 export declare function proassert_btp(p: any);
 export declare function proassert_crata(w: any);
 export declare function meteoassert_cp(p: any);
-export declare function meteoassert_sp(t: string);
+export declare function pumpassert_sp(t: string, p: string);
+export declare function pumpassert_prv(p: string);
 
 export declare function getProviderWList(): Promise<any[]>;
 /**
